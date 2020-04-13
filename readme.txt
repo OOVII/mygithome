@@ -5,3 +5,4 @@ Git tracks changes of file change1 change2. 1 2
 1 2
 12
 Git tracks changes of file
+Git tracks changes of file2
