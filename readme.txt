@@ -8,3 +8,5 @@ Git tracks changes of file
 Git tracks changes of file2
 Git tracks changes of file3
 Git tracks changes of file4
+Git tracks changes of file5
+Git tracks changes of file6
