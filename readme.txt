@@ -10,3 +10,4 @@ Git tracks changes of file3
 Git tracks changes of file4
 Git tracks changes of file5
 Git tracks changes of file6
+Creating a new branch is quick.
