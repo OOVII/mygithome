@@ -12,4 +12,4 @@ Git tracks changes of file5
 Git tracks changes of file6
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
-
+new branch dev
